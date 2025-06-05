@@ -25,7 +25,7 @@ By merging healthcare and electronics diagnostics, this device lays the foundati
 for a new class of multifunctional wearables that are versatile, cost-effective, and 
 impactful. 
 
-Block Diagram and circuit daigram
+Block and circuit diagram
 
 
 ![image](https://github.com/user-attachments/assets/73169c83-512b-4e16-83f0-1d02343de1d3)
