@@ -1,3 +1,4 @@
+MINI OSCILLOSCOPE AND ECG GADGET
 
 In the rapidly evolving fields of electronics and healthcare, the demand for 
 portable, multifunctional diagnostic tools has surged. Traditional equipment like 
